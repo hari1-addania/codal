@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codal/static/css/main.a240c550.css",
+    "main.js": "/codal/static/js/main.f1c3deb3.js",
+    "static/js/787.0841a4b8.chunk.js": "/codal/static/js/787.0841a4b8.chunk.js",
+    "index.html": "/codal/index.html",
+    "main.a240c550.css.map": "/codal/static/css/main.a240c550.css.map",
+    "main.f1c3deb3.js.map": "/codal/static/js/main.f1c3deb3.js.map",
+    "787.0841a4b8.chunk.js.map": "/codal/static/js/787.0841a4b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.f1c3deb3.js"
+  ]
+}
